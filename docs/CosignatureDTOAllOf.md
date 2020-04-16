@@ -1,0 +1,10 @@
+# CosignatureDTOAllOf
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**signer_public_key** | **str** | Public key. | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
